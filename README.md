@@ -83,8 +83,8 @@ Data Analyst | Informatics Engineering — UNSIKA
 BNSP Associate Data Scientist Certified
 
 - Portfolio: [rizqy-arya-portfolio.vercel.app](https://rizqy-arya-portfolio.vercel.app)
-- LinkedIn: [tambahkan link]
-- Email: [tambahkan email]
+- LinkedIn: [link](https://www.linkedin.com/in/rizqyap/)
+- Email: rizqyarya704@gmail.com
 
 ---
 
