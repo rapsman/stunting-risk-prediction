@@ -79,7 +79,7 @@ Aplikasi ini di-deploy via **Streamlit Community Cloud** — buka link demo di b
 ## 👤 Author
 
 **Rizqy Arya Pratama**
-Data Analyst | Informatics Engineering — UNSIKA
+Data Analyst | Informatics Engineering
 BNSP Associate Data Scientist Certified
 
 - Portfolio: [rizqy-arya-portfolio.vercel.app](https://rizqy-arya-portfolio.vercel.app)
