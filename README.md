@@ -2,7 +2,7 @@
 
 Machine learning model & web app (Streamlit) untuk memprediksi risiko stunting pada anak berdasarkan data antropometri, praktik pemberian makan, faktor ibu, serta kondisi lingkungan/sosial-ekonomi — dibangun mengikuti standar **WHO Child Growth Standards (Z-score TB/U & BB/U)** dan ambang batas **Permenkes RI No. 2 Tahun 2020**.
 
-🔗 **Live demo:** [tambahkan link Streamlit Cloud di sini setelah deploy]
+🔗 **Live demo:** [](https://stunting-risk-prediction-cgrkjyshn6dlgkm4dwfykg.streamlit.app/)
 
 ---
 
